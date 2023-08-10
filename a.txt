@@ -1,0 +1,69 @@
+MY WORK
+    <section class="my-work" id="work">
+      <h2 class="work-title">My work</h2>
+      <p class="work-subtitle">A selection of my works</p>
+
+      <div class="card-container">
+        <div class="card card-1">
+          <div class="circle"></div>
+          <div class="circle"></div>
+          <div class="card-inner">
+            <p>ETCH-A-SKETCH</p>
+            <img src="assets/etch.jpeg" alt="project-image" />
+            <p>
+              The Etch-a-Sketch project is a web-based implementation of the
+              classic toy that allows users to draw and create artwork using
+              their mouse. It provides a nostalgic experience while embracing
+              modern web technologies.
+            </p>
+          </div>
+        </div>
+
+        <div class="card card-2">
+          <div class="circle"></div>
+          <div class="circle"></div>
+          <div class="card-inner">
+            <p>MovieMemo</p>
+            <img src="assets/moviememo.jpeg" alt="project-image" />
+            <p>
+              MovieMemo is a sleek and user-friendly web application designed to
+              help movie enthusiasts keep track of the films they want to watch
+            </p>
+          </div>
+        </div>
+
+        <div class="card card-3">
+          <div class="circle"></div>
+          <div class="circle"></div>
+          <div class="card-inner">
+            <p>ChromaShift</p>
+            <img src="assets/Chroma.jpeg" alt="project-image" />
+            <p>
+              ChromaShift is a simple web application that allows users to input
+              any color in hex code and provides them with the option to lighten
+              or darken the color
+            </p>
+          </div>
+        </div>
+        <div class="card card-4">
+          <div class="circle"></div>
+          <div class="circle"></div>
+          <div class="card-inner">
+            <p>EmotionUP</p>
+            <img src="assets/Chroma.jpeg" alt="project-image" />
+            <p>
+              EmotionUP is an android application that can be used by people to
+              see the emotions of the person they are talking to. It uses the
+              camera to detect the emotions of the person accurately and
+              displays them on the screen. It was created by keeping Blind
+              people in mind.
+            </p>
+          </div>
+        </div>
+
+        <!-- <button id="left-button">Left</button>
+        <button id="right-button">Right</button> -->
+      </div>
+
+      <div class="portfolio"></div>
+    </section>
