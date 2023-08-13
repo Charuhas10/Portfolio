@@ -359,6 +359,24 @@ a {
   }
 }
 
+/* SKILLS */
+
+.skills {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.skills h1 {
+  font-weight: var(--font-weight-reg);
+  margin-bottom: 0.25em;
+}
+
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
 /* WORK */
 
 /* .my-work {
